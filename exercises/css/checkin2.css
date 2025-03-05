@@ -39,7 +39,7 @@ p {
     font-family: 'Times New Roman', Times, serif;
 }
 img {
-float: left;
+
     border: 4px #81A677 solid  ;
     margin: .65rem;
     max-width: 100%;
@@ -48,7 +48,7 @@ figure {
     border: #81A677 2px;
 }
 figcaption {
-    float: left;
+
 color: #26380C;
     background-color: #F9FCCF; padding: 1.5rem;
 
