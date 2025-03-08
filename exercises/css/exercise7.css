@@ -62,41 +62,41 @@ p {
 
 }
 
-a :link {
+a:link{
     color: #A1382E ;
     text-decoration: none;
 
 }
-a :hover {
+a:hover {
     color: #FFE4F0;
     text-decoration: underline;
 
 }
-a :visited {
+a:visited {
     color: #AC4093
     ;
     text-decoration: none;
 }
-a :active {
+a:active {
     color: aliceblue;
     text-decoration: none;
 }
 
-header a :link {
+header a:link {
     color: #FFE4F0;
     text-decoration: none;
 
 }
 
-header a :visited {
+header a:visited {
     color: #FFD5CE;
     text-decoration: none;
 }
-header a :hover {
+header a:hover {
     color: antiquewhite;
     text-decoration: none ;
 }
-header a :active {
+header a:active {
     color: aliceblue;
     text-decoration: overline;
 }
