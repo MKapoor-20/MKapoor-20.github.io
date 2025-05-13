@@ -24,11 +24,21 @@ header {
    
 }
 
+header {
+    
+    background-color: #9DB26F;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+   
+}
+
 .nav {
     display: flex;
     align-items: center;
-    gap: 40px;
-    
+    gap: 20px;
+   
 }
 
 .nav ul {
