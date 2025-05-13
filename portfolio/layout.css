@@ -112,8 +112,6 @@ font-size: larger;
 footer {
     background-color: #9DB26F;
     padding: 1rem;
-position: fixed;
-   bottom: 0;
     text-align: center;
     color: #2A1E06;
     width: 100%;
@@ -153,6 +151,11 @@ position: fixed;
 
 .introduction {
     background-image: url(../images/floral2.jpg);
+}
+
+.introduction footer {
+    position: fixed;
+    bottom: 0; 
 }
 
 .introduction h1 {
