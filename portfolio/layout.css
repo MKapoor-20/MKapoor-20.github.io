@@ -151,7 +151,7 @@ position: fixed;
 /* Index Page*/ 
 
 .introduction {
-    background-image: url(../images/floral2.jpg);
+    background-image: url(./images/floral2.jpg);
 }
 
 .introduction h1 {
