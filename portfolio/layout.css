@@ -416,6 +416,9 @@ main.container img{
     top: 0;
 }
 
+.card .overlay-content a {
+    color: #faebd7;
+}
 
 
 /*Resume*/ 
