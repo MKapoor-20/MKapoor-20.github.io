@@ -28,7 +28,7 @@ header {
     display: flex;
     align-items: center;
     gap: 40px;
-    font-size: 20px ;
+    
 }
 
 .nav ul {
@@ -131,7 +131,7 @@ position: fixed;
  
 .links ul {
     list-style-type: none; 
-    font-size: 30px;
+    padding-left: 0; 
     
 
 }
