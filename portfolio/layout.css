@@ -395,6 +395,7 @@ main.container img{
 
 .card .overlay-content a {
     align-items: center;
+    color: #faebd7;
 }
 .card .overlay-content {
     width: 100%;
@@ -416,9 +417,6 @@ main.container img{
     top: 0;
 }
 
-.card .overlay-content a {
-    color: #faebd7;
-}
 
 
 /*Resume*/ 
