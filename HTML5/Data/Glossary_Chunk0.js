@@ -1,0 +1,1 @@
+define({'ADA':{d:'Americans with Disabilities Act',l:''},'ATAG':{d:'Authoring Tool Accessibility Guidelines.',l:''},'WCAG':{d:'Web Content Accessibility Guidelines',l:''}});

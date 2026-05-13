@@ -1,0 +1,1 @@
+define({numchunks:1,prefix:'Glossary_Chunk',terms:[{t:'ADA',c:0},{t:'ATAG',c:0},{t:'WCAG',c:0}]});
